@@ -1,5 +1,5 @@
 .content-area {
-	height: 100vh;
+	height: 80vh;
 	width: 100%;
 	text-align: center;
 }
@@ -12,6 +12,9 @@
 }
 .justify-content-center {
 	justify-content: center;
+}
+.link_company{
+  text-decoration: none;
 }
 
 /* make keyframes that tell the start state and the end state of our object */
